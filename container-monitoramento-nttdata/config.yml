@@ -8,3 +8,5 @@ monitoredProcesses:  # Lista de processos a serem monitorados
     processDisplayName: "Container 2 - Python"  # Nome amigável do processo
     processDescription: "Aplicação Python com banco de dados SQLite"  # Descrição do processo
     commandLine: "python main.py"  # Comando de linha para executar o processo
+
+    
