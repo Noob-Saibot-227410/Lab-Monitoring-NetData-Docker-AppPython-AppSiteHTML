@@ -28,7 +28,7 @@
 		<li>Abra um terminal na pasta raiz do projeto.</li>
 		<li>Execute o seguinte comando para construir as imagens dos contêineres:</li>
 </ol>
-	<code>docker-compose build</code>
+	<pre><code>docker-compose build</code></pre>
 	<ol start="5">
 		<li>Execute o seguinte comando para iniciar os contêineres:</li>
 </ol>
