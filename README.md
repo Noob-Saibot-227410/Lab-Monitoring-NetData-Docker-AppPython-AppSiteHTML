@@ -32,7 +32,7 @@
 	<ol start="5">
 		<li>Execute o seguinte comando para iniciar os contêineres:</li>
 </ol>
-	<code>docker-compose up</code>
+	<pre><code>docker-compose up</pre></code>
 	<p>Aguarde até que todos os contêineres estejam em execução.</p>
 	<p>Abra um navegador web e acesse as seguintes URLs para verificar se as aplicações estão funcionando corretamente:</p>
 	<ul>
