@@ -11,13 +11,16 @@
 		<li>container-app2-python: um contêiner que executa um servidor Python com uma aplicação web;</li>
 		<li>container-monitoramento-nttdata: um contêiner que executa uma aplicação de monitoramento utilizando a ferramenta NTTDATA.</li>
 	</ul>
+	
 <h2>Tecnologias utilizadas</h2>
-	<div>
-		<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
-		<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
-		<li><a href="https://httpd.apache.org"><img src="https://img.icons8.com/color/48/000000/apache.png" alt="Apache" title="Apache" /></a></li>
-	<li><a href="https://www.nttdata.com/global/en/"><img src="https://img.icons8.com/color/48/000000/ntt.png" alt="NTT DATA" title="NTT DATA" /></a></li>
-	</div>
+<div>
+  <a href="https://www.docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" /></a>
+  <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" /></a>
+  <a href="https://httpd.apache.org"><img src="https://img.icons8.com/color/48/000000/apache.png" alt="Apache" title="Apache" /></a>
+  <a href="https://www.nttdata.com/global/en/"><img src="https://img.icons8.com/color/48/000000/ntt.png" alt="NTT DATA" title="NTT DATA" /></a>
+</div>
+
+	
 	<h2>Como executar o projeto</h2>
 	<ol>
 		<li>Clone este repositório em sua máquina local.</li>
