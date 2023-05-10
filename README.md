@@ -21,7 +21,7 @@
 	<br>
 </div>
 
-	<h2>Como executar o projeto</h2>
+<h2>Como executar o projeto</h2>
 <ol>
 		<li>Clone este repositório em sua máquina local.</li>
 		<li>Certifique-se de que o Docker está instalado.</li>
