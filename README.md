@@ -23,16 +23,16 @@
 
 	<br>
 	<h2>Como executar o projeto</h2>
-	<ol>
+<ol>
 		<li>Clone este repositório em sua máquina local.</li>
 		<li>Certifique-se de que o Docker está instalado.</li>
 		<li>Abra um terminal na pasta raiz do projeto.</li>
 		<li>Execute o seguinte comando para construir as imagens dos contêineres:</li>
-	</ol>
+</ol>
 	<code>docker-compose build</code>
 	<ol start="5">
 		<li>Execute o seguinte comando para iniciar os contêineres:</li>
-	</ol>
+</ol>
 	<code>docker-compose up</code>
 	<p>Aguarde até que todos os contêineres estejam em execução.</p>
 	<p>Abra um navegador web e acesse as seguintes URLs para verificar se as aplicações estão funcionando corretamente:</p>
@@ -41,7 +41,7 @@
 		<li><a href="http://localhost:5000">http://localhost:5000</a>: a aplicação web do container-app2-python</li>
 		<li><a href="http://localhost:8081">http://localhost:8081</a>: o painel de monitoramento do container-monitoramento-nttdata</li>
 	</ul>
-	<h2>Como monitorar os contêineres</h2>
+<h2>Como monitorar os contêineres</h2>
 
 <p>Para monitorar os contêineres, você pode acessar o painel do container-monitoramento-nttdata, que está disponível na porta 8081. O painel apresenta informações sobre o uso de CPU, memória e rede de cada contêiner. Além disso, é possível definir alertas para serem disparados caso algum contêiner atinja um limite pré-determinado de recursos.</p>
 	
