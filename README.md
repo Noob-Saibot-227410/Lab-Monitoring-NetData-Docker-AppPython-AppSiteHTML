@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Laboratório Docker</title>
 </head>
 <body>
 	<h1>Laboratório Docker</h1>
@@ -16,8 +15,8 @@
 	<div>
 		<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
 		<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
-		<img src="https://img.icons8.com/color/48/000000/apache.png" alt="Apache" title="Apache" />
-		<img src="https://img.icons8.com/color/48/000000/ntt-data.png" alt="NTTDATA" title="NTTDATA" />
+		<li><a href="https://httpd.apache.org"><img src="https://img.icons8.com/color/48/000000/apache.png" alt="Apache" title="Apache" /></a></li>
+	<li><a href="https://www.nttdata.com/global/en/"><img src="https://img.icons8.com/color/48/000000/ntt.png" alt="NTT DATA" title="NTT DATA" /></a></li>
 	</div>
 	<h2>Como executar o projeto</h2>
 	<ol>
