@@ -18,6 +18,7 @@
   <a href="https://www.python.org"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" /></a>
   <a href="https://httpd.apache.org"><img src="https://img.icons8.com/color/48/000000/apache.png" alt="Apache" title="Apache" /></a>
   <a href="https://www.nttdata.com/global/en/"><img src="https://img.icons8.com/color/48/000000/ntt.png" alt="NTT DATA" title="NTT DATA" /></a>
+	<br>
 </div>
 
 	<br>
