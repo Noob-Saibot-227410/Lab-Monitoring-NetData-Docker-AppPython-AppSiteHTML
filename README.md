@@ -20,7 +20,7 @@
   <a href="https://www.nttdata.com/global/en/"><img src="https://img.icons8.com/color/48/000000/ntt.png" alt="NTT DATA" title="NTT DATA" /></a>
 </div>
 
-	
+	<br>
 	<h2>Como executar o projeto</h2>
 	<ol>
 		<li>Clone este repositório em sua máquina local.</li>
