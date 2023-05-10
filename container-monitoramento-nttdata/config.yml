@@ -1,0 +1,10 @@
+systemProfileName: "docker"  # Define o nome do perfil do sistema
+monitoredProcesses:  # Lista de processos a serem monitorados
+  - processName: "app1"  # Nome do processo do primeiro contêiner
+    processDisplayName: "Container 1 - Site Web"  # Nome amigável do processo
+    processDescription: "Site web simples em HTML/CSS/JS"  # Descrição do processo
+    commandLine: "nginx: -g daemon off;"  # Comando de linha para executar o processo
+  - processName: "app2"  # Nome do processo do segundo contêiner
+    processDisplayName: "Container 2 - Python"  # Nome amigável do processo
+    processDescription: "Aplicação Python com banco de dados SQLite"  # Descrição do processo
+    commandLine: "python main.py"  # Comando de linha para executar o processo

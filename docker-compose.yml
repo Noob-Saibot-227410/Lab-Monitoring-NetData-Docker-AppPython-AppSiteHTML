@@ -1,0 +1,24 @@
+version: "3"
+
+# Define os serviços a serem executados como contêineres
+services:
+  
+  # Configuração do primeiro serviço: container-app1-site-web
+  app1:
+    build: ./container-app1-site-web  # Define o caminho para o Dockerfile do serviço
+    ports:
+      - "8080:80"  # Mapeia a porta 80 do contêiner para a porta 8080 do host
+
+  # Configuração do segundo serviço: container-app2-python
+  app2:
+    build: ./container-app2-python  # Define o caminho para o Dockerfile do serviço
+    ports:
+      - "5000:5000"  # Mapeia a porta 5000 do contêiner para a porta 5000 do host
+
+  # Configuração do terceiro serviço: container-monitoramento-nttdata
+  nttdata:
+    build: ./container-monitoramento-nttdata  # Define o caminho para o Dockerfile do serviço
+    ports:
+      - "8081:8081"
+    volumes:
+      - ./nttdata:/opt/nttdata  # Cria um volume para persistir os dados de monitoramento
