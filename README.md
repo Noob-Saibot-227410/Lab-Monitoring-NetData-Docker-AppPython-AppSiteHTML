@@ -21,7 +21,6 @@
 	<br>
 </div>
 
-	<br>
 	<h2>Como executar o projeto</h2>
 <ol>
 		<li>Clone este repositório em sua máquina local.</li>
